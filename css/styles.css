@@ -152,7 +152,7 @@ img {
 .hero {
 	padding-top: 136px;
 	padding-bottom: 210px;
-	background-image: url(/img/hero-bg.jpg);
+	background-image: url(img/hero-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
