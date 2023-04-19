@@ -152,7 +152,7 @@ img {
 .hero {
 	padding-top: 170px;
 	padding-bottom: 210px;
-	background-image: url("/img/hero-bg.png");
+	background-image: url("img/hero-bg.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -380,11 +380,11 @@ img {
 }
 
 .social-link-vk {
-	background-image: url("/img/vk-logo.svg");
+	background-image: url("img/vk-logo.svg");
 }
 
 .social-link-tg {
-	background-image: url("/img/tg-logo.svg");
+	background-image: url("img/tg-logo.svg");
 }
 
 .copyright {
